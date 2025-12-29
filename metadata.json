@@ -1,0 +1,8 @@
+{
+  "name": "Aegis Face Recognition Command Center",
+  "description": "A high-fidelity, production-grade management dashboard for an automated face recognition system, featuring live monitoring, detailed architecture documentation, and AI-driven insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
